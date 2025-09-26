@@ -1,4 +1,9 @@
 #!/bin/sh
+# -----------------------------------------------------------------------------
+# Linux Node Exporter Installation Script
+# Version: v1.0.0
+# Credits and Author: Prashant Sultania (https://github.com/psultania)
+# -----------------------------------------------------------------------------
 #script for auto installation of node exporter
 #download node exporter
 echo "Open the NodeExporter URL (https://github.com/prometheus/node_exporter/releases), identify the version and paste it below" ;
