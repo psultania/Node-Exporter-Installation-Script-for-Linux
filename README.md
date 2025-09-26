@@ -12,4 +12,4 @@ What's in this script:
 
 
 
-Note: This script is not public, it is private script. Intentionally I didn't released this script as public, talk to me or send me the message if you need the script.
+Note: This script is not public, it is private script. Intentionally I didn't released this script as public, talk to me or [send me the message](mailto:prashantind2020@gmail.com?subject=Prometheus%20Script%20for%20Linux) if you need the script.
